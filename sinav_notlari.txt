@@ -1,0 +1,4 @@
+zeynep arıkan:65,90,45
+deniz samdanli:25,65,80
+efe ünlü:45,68,75
+ahmet yılmaz:45,65,79
